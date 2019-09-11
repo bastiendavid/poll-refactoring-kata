@@ -2,7 +2,7 @@
 
 ## Goals
 
-The objective of this kata is to refactor the code, and a little new feature.
+The objective of this kata is to refactor the code, and add a little new feature.
 
 To do so, you are strongly encouraged to use [Approval Tests](https://approvaltests.com/).
 
