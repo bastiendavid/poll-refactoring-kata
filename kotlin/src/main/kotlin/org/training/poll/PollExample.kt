@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
         pollService.createPoll(
             0,
             "What is your favorite color?",
-            ArrayList(listOf("Blue", "Green", "Red", "Yellow"))
+            arrayListOf("Blue", "Green", "Red", "Yellow")
         )
         pollService.vote(0, 0)
         pollService.vote(0, 0)
